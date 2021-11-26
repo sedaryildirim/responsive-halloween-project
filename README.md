@@ -49,7 +49,7 @@ Code-along Challenge with Bedimcode for a Halloween website
 
 - learned how to use emmet correctly with class chaining
 - fixed several errors with troubleshooting for display issues
-- better understanding of developer tools whislt searching for bugs
+- better understanding of developer tools whilst searching for bugs
 - learned more css shorthand
 - better understanding of bem naming structure
 
